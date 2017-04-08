@@ -1,0 +1,23 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^0.5.1"
+  },
+  "_extensions": [
+    ".png",
+    ".jpeg",
+    ".jpg"
+  ],
+  "_directories": [
+    "/Users/ndru/Desktop"
+  ],
+  "_output": "./result.txt"
+}
